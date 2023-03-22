@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.d0c66d99.js",
-    "static/js/787.13191d3c.chunk.js": "/react-gh-pages/static/js/787.13191d3c.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.d0c66d99.js.map": "/react-gh-pages/static/js/main.d0c66d99.js.map",
-    "787.13191d3c.chunk.js.map": "/react-gh-pages/static/js/787.13191d3c.chunk.js.map"
+    "main.css": "//ds-insight.github.io/pwatest/static/css/main.073c9b0a.css",
+    "main.js": "//ds-insight.github.io/pwatest/static/js/main.f535455f.js",
+    "static/js/787.13191d3c.chunk.js": "//ds-insight.github.io/pwatest/static/js/787.13191d3c.chunk.js",
+    "static/media/logo.svg": "//ds-insight.github.io/pwatest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//ds-insight.github.io/pwatest/index.html",
+    "main.073c9b0a.css.map": "//ds-insight.github.io/pwatest/static/css/main.073c9b0a.css.map",
+    "main.f535455f.js.map": "//ds-insight.github.io/pwatest/static/js/main.f535455f.js.map",
+    "787.13191d3c.chunk.js.map": "//ds-insight.github.io/pwatest/static/js/787.13191d3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d0c66d99.js"
+    "static/js/main.f535455f.js"
   ]
 }
